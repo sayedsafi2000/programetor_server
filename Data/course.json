@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "name": "C#",
+    "title": "C Sharp (programming language)",
+    "image_url": "https://i.ibb.co/72swM7R/c.png",
+    "details": "C# (pronounced 'see sharp') is a modern, object-oriented, and type-safe programming language. C# enables developers to build many types of secure and robust applications that run in . NET. C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers."
+  },
+  {
+    "id": "02",
+    "name": "Flutter",
+    "title": "Flutter - Build apps for any screen",
+    "image_url": "https://i.ibb.co/27wTVd1/flutter.png",
+    "details": "Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. First described in 2015, Flutter was released in May 2017."
+  },
+  {
+    "id": "03",
+    "name": "Java Script",
+    "title": "Javascript - Build your front-end development Skil",
+    "image_url": "https://i.ibb.co/mq2tLqM/images.png",
+    "details": "What is JavaScript? JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well."
+  },
+  {
+    "id": "04",
+    "name": "Java",
+    "title": "Learn Java Programming",
+    "image_url": "https://i.ibb.co/nrnwFT6/Java.png",
+    "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+  },
+  {
+    "id": "05",
+    "name": "Node.js",
+    "title": "Learning Node.js Development ",
+    "image_url": "https://i.ibb.co/Fmxwpkt/node.png",
+    "details": "Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications."
+  },
+  {
+    "id": "06",
+    "name": "Python",
+    "title": "Learn Python Programming ",
+    "image_url": "https://i.ibb.co/wrXSKnh/python.png",
+    "details": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems."
+  }
+]
