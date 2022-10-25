@@ -17,13 +17,6 @@ app.get("/course/:id", (req, res) => {
     console.log(selectedCourse)
     res.send(selectedCourse);
 })
-app.get("/course/:id", (req, res) => {
-    const id = req.params.id;
-    const selectedCourse = course.filter(c => c.category_id === id);
-    console.log(selectedCourse)
-    res.send(selectedCourse);
-})
-
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 })
